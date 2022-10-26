@@ -1,0 +1,5 @@
+remote_theme: # Rongrong Chen
+plugins:
+Welcome to my website. # add this line to the plugins list if you already have one
+title: Sample Data Science App Website
+description: An Interactive Data App
